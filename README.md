@@ -1,2 +1,2 @@
 This repository, Final-Project-SadikSabbir, is created for a deep learning project. It will contain four folders: Proposal, Final-Project-Report, Final-Presentation, and Code.
-Currently, the repository only includes the Proposal folder. Inside this folder, there is a PDF file that contains the project proposal.
+Currently, the repository only includes the Proposal and Code folder. There is another extra folder named as New Folder.   New Folder has a pdf file uploaded by Dr. Hagan for the class. Inside the Code folder I have 2 codes One named as test_raman_1dcnn.py and another  named as test_raman_1dcnn.py. I am still working on it. 
